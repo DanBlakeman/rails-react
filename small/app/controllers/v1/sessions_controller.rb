@@ -4,7 +4,7 @@ module V1
 
     #POST v1/login
 
-    # curl localhost:3000/v1/login --data "email=some@email.com&username=some@email.com&password=password"
+        # curl localhost:3000/v1/login --data "email=some@email.com&username=some@email.com&password=password"
 
 
     def create
